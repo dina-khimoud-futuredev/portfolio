@@ -37,7 +37,7 @@ import fashionCurves from './12.png';
 
 
 // --- Images du projet FullStack JS ---
-import fullstackHome from './G.png';
+
 import fullstackList from './F.png';
 import fullstackDetail from './H.png';
 import fullstackEdit from './I.png';
@@ -100,7 +100,6 @@ export const franceMapImages = [
 
 
 export const fullstackJsImages = [
-  fullstackHome,
   fullstackList,
   fullstackDetail,
   fullstackEdit,

@@ -319,7 +319,7 @@ Workflow optimization and process automation.`,
       degree: "Master 1 Computer Science, Software Engineering",
       date: "2025/2026",
       img: ulcoImg,
-      average: "Ongoing",
+      average: "14/20 (S1)",
       desc: "Computer Science: development of free software applications (web, mobile, multi-tier), design of distributed architectures, agile methodologies (Scrum, Kanban) and DevOps practices (CI/CD, Git, testing, continuous integration), administration of open-source infrastructures (Linux, virtualization, network services), system and application security, migration to open-source solutions, legal and economic aspects of free software, introduction to research and entrepreneurship. Mathematics / Theory: advanced algorithms, functional programming, machine learning, formal logic."
     },
     {
